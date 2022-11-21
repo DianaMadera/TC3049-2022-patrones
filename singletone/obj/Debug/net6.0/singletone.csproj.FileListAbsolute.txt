@@ -1,0 +1,15 @@
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\bin\Debug\net6.0\singletone.exe
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\bin\Debug\net6.0\singletone.deps.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\bin\Debug\net6.0\singletone.runtimeconfig.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\bin\Debug\net6.0\singletone.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\bin\Debug\net6.0\singletone.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.csproj.AssemblyReference.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.AssemblyInfoInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.AssemblyInfo.cs
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\refint\singletone.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\singletone.genruntimeconfig.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\singletone\obj\Debug\net6.0\ref\singletone.dll
