@@ -1,0 +1,15 @@
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.csproj.AssemblyReference.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\bin\Debug\net6.0\Abstract.exe
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\bin\Debug\net6.0\Abstract.deps.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\bin\Debug\net6.0\Abstract.runtimeconfig.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\bin\Debug\net6.0\Abstract.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\bin\Debug\net6.0\Abstract.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\refint\Abstract.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\Abstract.genruntimeconfig.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\abstract_factory\obj\Debug\net6.0\ref\Abstract.dll
