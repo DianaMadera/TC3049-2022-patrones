@@ -1,0 +1,20 @@
+C:\Users\DIANA\Downloads\PatronesDiseno-main\factory_method\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\DIANA\Downloads\PatronesDiseno-main\factory_method\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA\Downloads\PatronesDiseno-main\factory_method\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\DIANA\Downloads\PatronesDiseno-main\factory_method\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\DIANA\Downloads\PatronesDiseno-main\factory_method\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\bin\Debug\net6.0\FactoryMethod.exe
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\bin\Debug\net6.0\FactoryMethod.deps.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\bin\Debug\net6.0\FactoryMethod.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\bin\Debug\net6.0\FactoryMethod.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\refint\FactoryMethod.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\factory_method\obj\Debug\net6.0\ref\FactoryMethod.dll
