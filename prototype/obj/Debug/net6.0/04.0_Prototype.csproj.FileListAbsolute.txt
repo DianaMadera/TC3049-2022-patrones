@@ -1,0 +1,15 @@
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\bin\Debug\net6.0\04.0_Prototype.exe
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\bin\Debug\net6.0\04.0_Prototype.deps.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\bin\Debug\net6.0\04.0_Prototype.runtimeconfig.json
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\bin\Debug\net6.0\04.0_Prototype.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\bin\Debug\net6.0\04.0_Prototype.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.csproj.AssemblyReference.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.AssemblyInfoInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.AssemblyInfo.cs
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\refint\04.0_Prototype.dll
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.pdb
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\04.0_Prototype.genruntimeconfig.cache
+C:\Users\DIANA\Documents\Tec\11vo Semestre\diseño_arq_sof\patrones\TC3049-2022-patrones\prototype\obj\Debug\net6.0\ref\04.0_Prototype.dll
